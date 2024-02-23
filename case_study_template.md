@@ -1,6 +1,6 @@
 #ai-case-study: Midjourney
 
-# TITLE
+# AI Case Study Notes
 
 ## Overview and Origin
 
@@ -96,7 +96,7 @@ https://www.midjourney.com
 
 
 
-## Notes
+## Random Notes
 
 The largest discord server in the world.
 
