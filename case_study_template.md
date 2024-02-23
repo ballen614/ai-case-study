@@ -1,5 +1,3 @@
-#ai-case-study: Midjourney
-
 # AI Case Study Notes
 
 ## Overview and Origin
