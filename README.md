@@ -1,8 +1,12 @@
-## Case Study - Midjourney
+# Case Study - Midjourney
 
-# Overview
-# Founder
-# Generative AI
-# Performance
-# Long Term Vision
-# References
+## Overview
+## Founder
+### Education
+### Previous Start Up
+## Generative AI
+### History
+### Landscape and Competitors
+## Current Company Performance
+## Long Term Vision / Conclusion
+## References
