@@ -21,16 +21,27 @@ While the story of Leap Motion is largely out of the scope of this case study, i
 Also of note, David's motivation for starting Leap Motion was to solve a "big problem" for humanity: creating a way to interface with computers more quickly and get more out of the computer. (13)  This illustrates David's intent on solving fundamental human problems.  Though Leap Motion ultimately failed, it should be noted that David's idea has been embraced by the recent release of the Apple Vision Pro, a computing platform that uses no input device, instead, tracking the user's hands in space, using them for input.
 
 ## Midjourney
-In June of 2020, Jonathan Ho [releases a paper on Denoising Diffusion Probabilistic Models(https://arxiv.org/pdf/2006.11239.pdf). 
+In June of 2020, Jonathan Ho, a Berkely researcher, [releases a paper on Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239).  This started a wave of innovations on AI-based image creation.  This industry activity inspired David Holz to start the company of Midjourney in 2021, with the first open beta launching on July 12, 2022. (3)
 
-### Generative AI
+The mission of Midjourney as stated on their website, is: 
+
+> \[To explore] new mediums of thought and expanding the imaginative powers of the human species.  We are a small self-funded team focused on design, human infrastructure, and AI.
+
+### A Creative Approach to Community
+One of the first differentiators of Midjourney is their chosen operating environment: Midjourney users are required to interact with the service via the online chat platform, Discord.  Originally created by a game developer, and embraced by gamers, Discord is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers". (14) Midjourney is one of the many Discord servers offered on the service. 
+
+David Holz realized through user testing that users independently seemed to lack the creativity and interest in interacting with the platform, but in a social environment like Discord, where images are generated in a social setting, people collaborate to come up with more and more imaginative images. (5) Ultimately, it's this community as a result of the use of Discord that is a major differentiator for Midjourney.
+
+### Midjourney's Organizational Performance
+While a privately held company such as Midjourney does not have to report financials, there are still some indications of their company performance, and many speculations on their revenue.  For example, Mid
+
 ### Landscape and Competitors
 ### Current Company Performance
 ### Legal Challenges
 
 ## Long Term Vision / Conclusion
 Midjourney, as a research lab, is using Generative AI to explore what I will call Computational Creativity.  Currently, images are the vector to facilitate their research, but the end product isn't images, but imagination itself.  As stated by David himself: 
->One of my goals at Midjourney is to build new human infrastructure, and I think about [how] the world is going to need a lot of new things and we need infrastructure on which to build new things.  I think about building new pillars of infrastructure, and my pillars were reflection, imagination, and coordination. (5)
+>One of my goals at Midjourney is to build new human infrastructure, and I think about \[how] the world is going to need a lot of new things and we need infrastructure on which to build new things.  I think about building new pillars of infrastructure, and my pillars were reflection, imagination, and coordination. (5)
 
 
 ## References
@@ -48,3 +59,4 @@ Midjourney, as a research lab, is using Generative AI to explore what I will cal
 11. https://en.wikipedia.org/wiki/Leap_Motion - David Holz's first start up.
 12. https://www.theregister.com/2022/08/01/david_holz_midjourney/ - An article on David Holz on The Register
 13. Apple Podcasts - Power Law with John Coogan - "David Holz (Midjourney)"
+14. https://en.wikipedia.org/wiki/Discord - Discord wiki.
