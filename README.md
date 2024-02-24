@@ -27,15 +27,21 @@ The mission of Midjourney as stated on their website, is:
 
 > \[To explore] new mediums of thought and expanding the imaginative powers of the human species.  We are a small self-funded team focused on design, human infrastructure, and AI.
 
-### A Creative Approach to Community
+### A Creative Approach to Community - A Differentiator
 One of the first differentiators of Midjourney is their chosen operating environment: Midjourney users are required to interact with the service via the online chat platform, Discord.  Originally created by a game developer, and embraced by gamers, Discord is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers". (14) Midjourney is one of the many Discord servers offered on the service. 
 
 David Holz realized through user testing that users independently seemed to lack the creativity and interest in interacting with the platform, but in a social environment like Discord, where images are generated in a social setting, people collaborate to come up with more and more imaginative images. (5) Ultimately, it's this community as a result of the use of Discord that is a major differentiator for Midjourney.
 
 ### Midjourney's Organizational Performance
-While a privately held company such as Midjourney does not have to report financials, there are still some indications of their company performance, and many speculations on their revenue.  For example, Mid
+While a privately held company such as Midjourney does not have to report financials, there are still some indications of their company performance, and many speculations on their revenue.  For example, Midjourney has become, by far, the largest Discord server, with around 16 million registered users and between one and 2.5 million daily active users. (15)  
+
+When considering that an active Midjourney user is required to subscribe to a monthly plan costing between $8 a month and $96 a month \(depending on features), Midjourney is estimated to gross as much as $200 million a year, all entirely without investors.
+
+Another measure of Midjourney's performance is 
 
 ### Landscape and Competitors
+OpenAI's DALL-E, Stable Diffusion, others.
+
 ### Current Company Performance
 ### Legal Challenges
 
@@ -60,3 +66,4 @@ Midjourney, as a research lab, is using Generative AI to explore what I will cal
 12. https://www.theregister.com/2022/08/01/david_holz_midjourney/ - An article on David Holz on The Register
 13. Apple Podcasts - Power Law with John Coogan - "David Holz (Midjourney)"
 14. https://en.wikipedia.org/wiki/Discord - Discord wiki.
+15. https://skimai.com/10-midjourney-statistics-demonstrating-why-its-better-than-other-ai-art-generators
