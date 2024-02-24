@@ -1,4 +1,4 @@
-# Case Study - Midjourney
+# Case Study - ![Midjourney Logo]()
 
 ## Overview
 Midjourney is an independent, privately owned research lab founded in 2021 by David Holz, a silicon valley entrepreneur.  The research lab has made a name for itself for it's incredible, industry-leading images created via generative AI.  The very small organization has found tremendous success in their results, but there may be more to the goals of Midjourney than simply generating images.
