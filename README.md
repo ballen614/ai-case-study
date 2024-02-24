@@ -3,21 +3,22 @@
 ## Overview
 Midjourney is an independent, privately owned research lab founded in 2021 by David Holz, a silicon valley entrepreneur.  The research lab has made a name for itself for it's incredible, industry-leading images created via generative AI.  The very small organization has found tremendous success in their results, but there are certainly more to the goals of the team at Midjourney than simply generating images.  The intent of this paper is to explore the past and present of Midjourney to provide context for the future of Midjourney as stated by the founder himself on January 10th on his X account: "we can only create what we first imagine".
 
-## Founder
+## Midjourney's Founder - David Holz
 David Holz grew up in Fort Lauderdale Florida, living with his father who was a dentist.  His neighborhood was comprised of "mostly old people" (9), so he spent a lot of time alone with his father's computer playing video games.  His early inspiration for software engineering came from modifying the software for a Star Wars computer game called "Dark Forces II". (9)  It was during this time, in middle school, that David came up with the idea of his first start up, Leap Motion.
 
-### Education
+### David's Education
 Years later, David graduated from the University of North Caroline at Chapel Hill, with degrees in in both Math and Physics.  He followed his graduation by beginning work on his PhD in Applied Mathematics.  Also during this time, he began working as a student research at the Max Planck Institute and later then NASA Langely Research Center. (12)
 
 David found his schedule of study and work to be overwhelming, and in 2010, he moved to San Francisco to start Leap Motion (9)(10)(11), the startup he had envisioned years prior while in middle school. (9)
 
-### Leap Motion
+### Leap Motion - David's First Startup
 First envisioned in middle school, first developed in 2008, and first announced as a product in 2012, Leap Motion manufactured and marketed a computer input device that used human finger motions as input, but required no physical contact; the users hands were mapped in physical space via infrared emitters and sensors. (11)  The company was, at it's peak, valued at over $300 million dollars, but was eventually sold to Ultrahaptics for about $30 million.  
 
 While the story of Leap Motion is largely out of the scope of this case study, it is important to note that David's experience and, arguably, failures with Leap Motion were influential in his approach when creating Midjourney:
 
 >I was looking for a different environment instead of a big venture-backed company, and I left to start Midjourney. (10)
 
+Also of note, David's motivation for starting Leap Motion was to solve a "big problem" for humanity: creating a way to interface with computers more quickly and get more out of the computer. (13)  This illustrates David's intent on solving fundamental human problems.  Though Leap Motion ultimately failed, it should be noted that David's idea has been embraced by the recent release of the Apple Vision Pro, a computing platform that uses no input device, instead, tracking the user's hands in space, using them for input.
 
 ## Generative AI
 ### History
@@ -45,3 +46,4 @@ Midjourney, as a research lab, is using Generative AI to explore what I will cal
 10. https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz - An interview with David Holz on The Verge.
 11. https://en.wikipedia.org/wiki/Leap_Motion - David Holz's first start up.
 12. https://www.theregister.com/2022/08/01/david_holz_midjourney/ - An article on David Holz on The Register
+13. Apple Podcasts - Power Law with John Coogan - "David Holz (Midjourney)"
