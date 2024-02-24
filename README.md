@@ -11,7 +11,7 @@ Years later, David graduated from the University of North Caroline at Chapel Hil
 
 David found his schedule of study and work to be overwhelming, and in 2010, he moved to San Francisco to start Leap Motion (9)(10)(11), the startup he had envisioned years prior while in middle school. (9)
 
-### Leap Motion - David's First Startup
+### Leap Motion - Grand Ambitions and Hard Lessons
 First envisioned in middle school, first developed in 2008, and first announced as a product in 2012, Leap Motion manufactured and marketed a computer input device that used human finger motions as input, but required no physical contact; the users hands were mapped in physical space via infrared emitters and sensors. (11)  The company was, at it's peak, valued at over $300 million dollars, but was eventually sold to Ultrahaptics for about $30 million.  
 
 While the story of Leap Motion is largely out of the scope of this case study, it is important to note that David's experience and, arguably, failures with Leap Motion were influential in his approach when creating Midjourney:
@@ -20,11 +20,12 @@ While the story of Leap Motion is largely out of the scope of this case study, i
 
 Also of note, David's motivation for starting Leap Motion was to solve a "big problem" for humanity: creating a way to interface with computers more quickly and get more out of the computer. (13)  This illustrates David's intent on solving fundamental human problems.  Though Leap Motion ultimately failed, it should be noted that David's idea has been embraced by the recent release of the Apple Vision Pro, a computing platform that uses no input device, instead, tracking the user's hands in space, using them for input.
 
-## Generative AI
-### History
-### Landscape and Competitors
+## Midjourney
+In June of 2020, Jonathan Ho [releases a paper on Denoising Diffusion Probabilistic Models(https://arxiv.org/pdf/2006.11239.pdf). 
 
-## Current Company Performance
+### Generative AI
+### Landscape and Competitors
+### Current Company Performance
 ### Legal Challenges
 
 ## Long Term Vision / Conclusion
