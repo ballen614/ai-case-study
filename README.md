@@ -60,9 +60,12 @@ Through Midjourney, David seems to be attempting to solve his "pillar of imagina
 
 Does David have plans for Midjourney to be a part of that game creation process?  Will Midjourney's imaginative AI become a core component of computer aided design in the future?  Will Midjourney imagine the next generation of buildings in architectural design, or the next generation of efficient engines in mechincal engineering?  Time will tell.  While we do not have directly stated ambitions of such, the clues are definitely all around us. However, for now, I highly recommend creating a Discord account, a Midjourney account, and giving Midjourney a try!  
 
-## Midjourney Examples I Created
+## Midjourney Examples Created by the Author
 > Prompt: "OSU's Brutus Buckeye mascot standing in a dystopian sci-fi city --v 6.0"
 > ![OSU's Brutus Buckeye mascot standing in a dystopian sci-fi city --v 6.0](brutus.png)
+
+> Prompt: "An American Football player in a scarlet and gray uniform battles a large cybernetic wolverine on the surface of the moon."
+> ![An American Football player in a scarlet and gray uniform battles a large cybernetic wolverine on the surface of the moon.](football.png)
 
 
 ## References
