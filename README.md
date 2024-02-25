@@ -46,18 +46,22 @@ When considering that an active Midjourney user is required to subscribe to a mo
 For perspective, Katie Le of envzon.com said it best: 
 > "What sets Midjourney apart is its exceptional efficiency and profitability. The company boasts an astounding revenue per employee, a remarkable $5 million. This surpasses the metrics of publicly listed SaaS companies like Dropbox, Slack, Squarespace, and Palantir, showcasing Midjourney’s capacity to deliver high returns with a compact team." (19)
 
-Another measure of Midjourney's performance is it's usage of Cloud GPU resources.  
-
 ### Landscape and Competitors
-OpenAI's DALL-E, Stable Diffusion, others.
+Midjourney, while leading the pack, does have very notable competitors in the space.  [OpenAI's DALL-E](https://openai.com/dall-e-3), currently in version 3, is perhaps the strongest competitor, while Stable Diffusion from [Stability.ai](https://stability.ai), offers an open-source alternative.  Google has also recently released an image generator called [Imagen 2](https://deepmind.google/technologies/imagen-2/), though [it has already been mired in controversy](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical). 
 
 ### Current Company Performance
 ### Legal Challenges
 
 ## Long Term Vision / Conclusion
-Midjourney, as a research lab, is using Generative AI to explore what I will call Computational Creativity.  Currently, images are the vector to facilitate their research, but the end product isn't images, but imagination itself.  As stated by David himself: 
+Midjourney, as a research lab, is using Generative AI to explore what could be called Computational Creativity.  Currently, images are the vector to facilitate their research, but the end product isn't images, but imagination itself.  As stated by David himself: 
 
 >"One of my goals at Midjourney is to build new human infrastructure, and I think about \[how] the world is going to need a lot of new things and we need infrastructure on which to build new things.  I think about building new pillars of infrastructure, and my pillars were reflection, imagination, and coordination." (5)
+
+Through Midjourney, David seems to be attempting to solve his "pillar of imagination" through computational computing.  It is quite possible to imagine David's ambitions extending beyond generating images to help humans imagine solutions to other computer-aided challenges.  For example, in an interview with PC Gamer, David had this to say: 
+
+>"you're gonna have game studios using AI to help bake out lots of assets, textures, terrain, layouts and characters. Even if it takes ten minutes to make a high quality character, that's still much faster than it would take during the normal production process." (20)
+
+Does David have plans for Midjourney to be a part of that game creation process?  Will Midjourney's imaginative AI become a core component of computer aided design in the future?  Will Midjourney imagine the next generation of buildings in architectural design, or the next generation of efficient engines in mechincal engineering?  Time will tell.  While we do not have directly stated ambitions of such, the clues are definitely all around us. 
 
 
 ## References
@@ -81,4 +85,5 @@ Midjourney, as a research lab, is using Generative AI to explore what I will cal
 17. https://www.prnewswire.com/news-releases/midjourney-selects-google-cloud-to-power-ai-generated-creative-platform-301771558.html - Midjourney uses Google Cloud Platform
 18. https://overtheanthill.substack.com/p/how-did-midjourney-start - Some financial discussion.
 19. https://envzone.com/patient-hunter-david-holz-holds-the-key-to-the-next-big-thing/ - More financials.
-
+20. https://www.pcgamer.com/ai-image-generator-discord-bot-midjourney-founder-interview/ - Another article about Midjourney, but in the context of PC Gaming.
+21. https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical - Google's controversial image generator.
