@@ -35,14 +35,18 @@ In order to explore human creativity, David Holz realized he needed to first obs
 David Holz realized through user testing that users independently seemed to lack the creativity and interest in interacting with the platform, but in a social environment like Discord, where images are generated in a social setting, people collaborate to come up with more and more imaginative images. (5) Ultimately, it's this community as a result of the use of Discord that is a major differentiator for Midjourney.  In the words of David Holz himself:
 
 >We found very quickly that most people don’t know what they want. You say: “Here’s a machine you can imagine anything with it — what do you want?” And they go: “dog.” And you go “really?” and they go “pink dog.” So you give them a picture of a dog, and they go “okay” and then go do something else.
+
 >Whereas if you put them in a group, they’ll go “dog” and someone else will go “space dog” and someone else will go “Aztec space dog,” and then all of a sudden, people understand the possibilities, and you’re creating this augmented imagination — an environment where people can learn and play with this new capacity. So we found that people really like imagining together, and so we made [Midjourney] social. (10)
 
 ### Midjourney's Organizational Performance
-While a privately held company such as Midjourney does not have to report financials, there are still some indications of their company performance, and many speculations on their revenue.  For example, Midjourney has become, by far, the largest Discord server, with around 16 million registered users and between one and 2.5 million daily active users. (15)  
+While a privately held company such as Midjourney does not have to report financials, there are still some indications of their company performance, and many speculations on their revenue.  For example, Midjourney has become, by far, the largest Discord server, with around 17.5 million registered users (16) and between one and 2.5 million daily active users. (15)  For reference the second largest Discord server is known as "LimeWire" and only has 2.3 million users. (16)
 
-When considering that an active Midjourney user is required to subscribe to a monthly plan costing between $8 a month and $96 a month \(depending on features), Midjourney is estimated to gross as much as $200 million a year, all entirely without investors.
+When considering that an active Midjourney user is required to subscribe to a monthly plan costing between $8 a month and $96 a month \(depending on features), Midjourney is estimated to gross as much as $200 million a year, all entirely without investors. (18)
 
-Another measure of Midjourney's performance is 
+For perspective, Katie Le of envzon.com said it best: 
+> "What sets Midjourney apart is its exceptional efficiency and profitability. The company boasts an astounding revenue per employee, a remarkable $5 million. This surpasses the metrics of publicly listed SaaS companies like Dropbox, Slack, Squarespace, and Palantir, showcasing Midjourney’s capacity to deliver high returns with a compact team." (19)
+
+Another measure of Midjourney's performance is it's usage of Cloud GPU resources.  
 
 ### Landscape and Competitors
 OpenAI's DALL-E, Stable Diffusion, others.
@@ -73,5 +77,8 @@ Midjourney, as a research lab, is using Generative AI to explore what I will cal
 13. Apple Podcasts - Power Law with John Coogan - "David Holz (Midjourney)"
 14. https://en.wikipedia.org/wiki/Discord - Discord wiki.
 15. https://skimai.com/10-midjourney-statistics-demonstrating-why-its-better-than-other-ai-art-generators
-
+16. https://www.statista.com/statistics/1327141/discord-top-servers-worldwide-by-number-of-members/
+17. https://www.prnewswire.com/news-releases/midjourney-selects-google-cloud-to-power-ai-generated-creative-platform-301771558.html - Midjourney uses Google Cloud Platform
+18. https://overtheanthill.substack.com/p/how-did-midjourney-start - Some financial discussion.
+19. https://envzone.com/patient-hunter-david-holz-holds-the-key-to-the-next-big-thing/ - More financials.
 
