@@ -16,7 +16,7 @@ First envisioned in middle school, first developed in 2008, and first announced 
 
 While the story of Leap Motion is largely out of the scope of this case study, it is important to note that David's experience and, arguably, failures with Leap Motion were influential in his approach when creating Midjourney:
 
->I was looking for a different environment instead of a big venture-backed company, and I left to start Midjourney. (10)
+>"I was looking for a different environment instead of a big venture-backed company, and I left to start Midjourney." (10)
 
 Also of note, David's motivation for starting Leap Motion was to solve a "big problem" for humanity: creating a way to interface with computers more quickly and get more out of the computer. (13)  This illustrates David's intent on solving fundamental human problems.  Though Leap Motion ultimately failed, it should be noted that David's idea has been embraced by the recent release of the Apple Vision Pro, a computing platform that uses no input device, instead, tracking the user's hands in space, using them for input.
 
@@ -25,7 +25,7 @@ In June of 2020, Jonathan Ho, a Berkely researcher, [releases a paper on Denoisi
 
 The mission of Midjourney as stated on their website, is: 
 
-> \[To explore] new mediums of thought and expanding the imaginative powers of the human species.  We are a small self-funded team focused on design, human infrastructure, and AI.
+> "\[To explore] new mediums of thought and expanding the imaginative powers of the human species.  We are a small self-funded team focused on design, human infrastructure, and AI."
 
 ### A Creative Approach to Community - A Differentiator
 One of the first differentiators of Midjourney is their chosen operating environment: Midjourney users are required to interact with the service via the online chat platform, Discord.  Originally created by a game developer, and embraced by gamers, Discord is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers". (14) Midjourney is one of the many Discord servers offered on the service. 
@@ -47,7 +47,8 @@ OpenAI's DALL-E, Stable Diffusion, others.
 
 ## Long Term Vision / Conclusion
 Midjourney, as a research lab, is using Generative AI to explore what I will call Computational Creativity.  Currently, images are the vector to facilitate their research, but the end product isn't images, but imagination itself.  As stated by David himself: 
->One of my goals at Midjourney is to build new human infrastructure, and I think about \[how] the world is going to need a lot of new things and we need infrastructure on which to build new things.  I think about building new pillars of infrastructure, and my pillars were reflection, imagination, and coordination. (5)
+
+>"One of my goals at Midjourney is to build new human infrastructure, and I think about \[how] the world is going to need a lot of new things and we need infrastructure on which to build new things.  I think about building new pillars of infrastructure, and my pillars were reflection, imagination, and coordination." (5)
 
 
 ## References
