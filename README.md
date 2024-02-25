@@ -1,13 +1,13 @@
 # Case Study - ![Midjourney Logo](midjourney.png)
 
 ## Overview
-Midjourney is an independent, privately owned research lab founded in 2021 by David Holz, a silicon valley entrepreneur.  The research lab has made a name for itself for it's incredible, industry-leading images created via generative AI.  The very small organization has found tremendous success in their results, but there are certainly more to the goals of the team at Midjourney than simply generating images.  The intent of this paper is to explore the past and present of Midjourney to provide context for the future of Midjourney as stated by the founder himself on January 10th on his X account: "we can only create what we first imagine".
+Midjourney is an independent, privately owned research lab founded in 2021 by David Holz, a silicon valley entrepreneur.  The research lab has made a name for itself for its incredible, industry-leading images created via generative AI.  The very small organization has found tremendous success in their results, but there is certainly more to the goals of the team at Midjourney than simply generating images.  The intent of this paper is to explore the past and present of Midjourney to provide context for the future of Midjourney as stated by the founder himself on January 10th on his X account: "we can only create what we first imagine".
 
 ## Midjourney's Founder - David Holz
 David Holz grew up in Fort Lauderdale Florida, living with his father who was a dentist.  His neighborhood was comprised of "mostly old people" (9), so he spent a lot of time alone with his father's computer playing video games.  His early inspiration for software engineering came from modifying the software for a Star Wars computer game called "Dark Forces II". (9)  It was during this time, in middle school, that David came up with the idea of his first start up, Leap Motion.
 
 ### David's Education
-Years later, David graduated from the University of North Caroline at Chapel Hill, with degrees in in both Math and Physics.  He followed his graduation by beginning work on his PhD in Applied Mathematics.  Also during this time, he began working as a student research at the Max Planck Institute and later then NASA Langely Research Center. (12)
+Years later, David graduated from the University of North Carolina at Chapel Hill, with degrees in both Math and Physics.  He followed his graduation by beginning work on his PhD in Applied Mathematics.  Also during this time, he began working as a student researcher at the Max Planck Institute and later then NASA Langley Research Center. (12)
 
 David found his schedule of study and work to be overwhelming, and in 2010, he moved to San Francisco to start Leap Motion (9)(10)(11), the startup he had envisioned years prior while in middle school. (9)
 
@@ -67,3 +67,5 @@ Midjourney, as a research lab, is using Generative AI to explore what I will cal
 13. Apple Podcasts - Power Law with John Coogan - "David Holz (Midjourney)"
 14. https://en.wikipedia.org/wiki/Discord - Discord wiki.
 15. https://skimai.com/10-midjourney-statistics-demonstrating-why-its-better-than-other-ai-art-generators
+
+
