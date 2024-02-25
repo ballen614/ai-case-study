@@ -49,9 +49,6 @@ For perspective, Katie Le of envzon.com said it best:
 ### Landscape and Competitors
 Midjourney, while leading the pack, does have very notable competitors in the space.  [OpenAI's DALL-E](https://openai.com/dall-e-3), currently in version 3, is perhaps the strongest competitor, while Stable Diffusion from [Stability.ai](https://stability.ai), offers an open-source alternative.  Google has also recently released an image generator called [Imagen 2](https://deepmind.google/technologies/imagen-2/), though [it has already been mired in controversy](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical). 
 
-### Current Company Performance
-### Legal Challenges
-
 ## Long Term Vision / Conclusion
 Midjourney, as a research lab, is using Generative AI to explore what could be called Computational Creativity.  Currently, images are the vector to facilitate their research, but the end product isn't images, but imagination itself.  As stated by David himself: 
 
