@@ -58,7 +58,7 @@ Through Midjourney, David seems to be attempting to solve his "pillar of imagina
 
 >"you're gonna have game studios using AI to help bake out lots of assets, textures, terrain, layouts and characters. Even if it takes ten minutes to make a high quality character, that's still much faster than it would take during the normal production process." (20)
 
-Does David have plans for Midjourney to be a part of that game creation process?  Will Midjourney's imaginative AI become a core component of computer aided design in the future?  Will Midjourney imagine the next generation of buildings in architectural design, or the next generation of efficient engines in mechincal engineering?  Time will tell.  While we do not have directly stated ambitions of such, the clues are definitely all around us. 
+Does David have plans for Midjourney to be a part of that game creation process?  Will Midjourney's imaginative AI become a core component of computer aided design in the future?  Will Midjourney imagine the next generation of buildings in architectural design, or the next generation of efficient engines in mechincal engineering?  Time will tell.  While we do not have directly stated ambitions of such, the clues are definitely all around us. However, for now, I highly recommend creating a Discord account, a Midjourney account, and giving Midjourney a try!
 
 
 ## References
